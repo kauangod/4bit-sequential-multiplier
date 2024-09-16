@@ -1,4 +1,4 @@
-# Digital Circuits Project
+#Digital Circuits Project
 
 The project was based on these two materials:
 https://faculty.kfupm.edu.sa/COE/mimam/files/COE200experiment13.pdf
