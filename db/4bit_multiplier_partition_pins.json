@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "HEX00_PIN_C14",
+					"strict" : false
+				},
+				{
+					"name" : "HEX01_PIN_E15",
+					"strict" : false
+				},
+				{
+					"name" : "HEX02_PIN_C15",
+					"strict" : false
+				},
+				{
+					"name" : "HEX03_PIN_C16",
+					"strict" : false
+				},
+				{
+					"name" : "HEX04_PIN_E16",
+					"strict" : false
+				},
+				{
+					"name" : "HEX05_PIN_D17",
+					"strict" : false
+				},
+				{
+					"name" : "HEX06_PIN_C17",
+					"strict" : false
+				},
+				{
+					"name" : "HEX25_PIN_C22",
+					"strict" : false
+				},
+				{
+					"name" : "HEX20_PIN_B20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX21_PIN_A20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX22_PIN_B19",
+					"strict" : false
+				},
+				{
+					"name" : "HEX23_PIN_A21",
+					"strict" : false
+				},
+				{
+					"name" : "HEX24_PIN_B21",
+					"strict" : false
+				},
+				{
+					"name" : "HEX26_PIN_B22",
+					"strict" : false
+				},
+				{
+					"name" : "HEX52_PIN_L18",
+					"strict" : false
+				},
+				{
+					"name" : "HEX53_PIN_N18",
+					"strict" : false
+				},
+				{
+					"name" : "HEX54_PIN_M20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX55_PIN_N19",
+					"strict" : false
+				},
+				{
+					"name" : "HEX56_PIN_N20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX40_PIN_F18",
+					"strict" : false
+				},
+				{
+					"name" : "HEX41_PIN_E20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX42_PIN_E19",
+					"strict" : false
+				},
+				{
+					"name" : "HEX43_PIN_J18",
+					"strict" : false
+				},
+				{
+					"name" : "HEX44_PIN_H19",
+					"strict" : false
+				},
+				{
+					"name" : "HEX45_PIN_F19",
+					"strict" : false
+				},
+				{
+					"name" : "HEX46_PIN_F20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX50_PIN_J20",
+					"strict" : false
+				},
+				{
+					"name" : "HEX51_PIN_K20",
+					"strict" : false
+				},
+				{
+					"name" : "Q0_SW0_PIN_C10",
+					"strict" : false
+				},
+				{
+					"name" : "Q3_SW3_PIN_C12",
+					"strict" : false
+				},
+				{
+					"name" : "Q2_SW2_PIN_D12",
+					"strict" : false
+				},
+				{
+					"name" : "Q1_SW1_PIN_C11",
+					"strict" : false
+				},
+				{
+					"name" : "M0_SW6_PIN_A13",
+					"strict" : false
+				},
+				{
+					"name" : "M2_SW8_PIN_B14",
+					"strict" : false
+				},
+				{
+					"name" : "M1_SW7_PIN_A14",
+					"strict" : false
+				},
+				{
+					"name" : "M3_SW9_PIN_F15",
+					"strict" : false
+				},
+				{
+					"name" : "KEY1_PIN_A7",
+					"strict" : false
+				},
+				{
+					"name" : "KEY0_PIN_B8",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
