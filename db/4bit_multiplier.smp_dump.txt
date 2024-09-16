@@ -1,6 +1,0 @@
-
-State Machine - |4bit_multiplier|controller:inst|estado
-Name estado.s2 estado.s1 estado.s0 
-estado.s0 0 0 0 
-estado.s1 0 1 1 
-estado.s2 1 0 1 
